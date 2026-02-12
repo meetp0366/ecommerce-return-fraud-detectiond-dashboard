@@ -1,4 +1,21 @@
  🛍 E-Commerce Return Fraud Detection Dashboard
+ ## Dashboard Preview
+
+### Full Dashboard
+![Dashboard](dashboard.png)
+
+### Fraud Risk Overview
+![Fraud Risk](all.png)
+
+### Charts / Results
+![Charts](chart.png)
+
+### search filter
+![search](id.png)
+
+### top 5 risky customers
+![top 5](5.png)
+
 
 # 1) Why I Built This
 
