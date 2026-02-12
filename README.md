@@ -165,3 +165,12 @@ This product is successful if:
 - How to define and handle a problem
 - How to think wrt / in terms of  KPIs
 - How product decisions impact business
+
+- ## How to Run This Project
+
+### Step 1: Install required libraries
+pip install -r requirements.txt
+
+### Step 2: Run the Streamlit app
+streamlit run app.py
+
